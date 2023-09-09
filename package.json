@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Harishrawal2/allbackend_functionality/issues"
   },
-  "homepage": "https://github.com/Harishrawal2/allbackend_functionality#readme"
+  "homepage": "https://github.com/Harishrawal2/allbackend_functionality#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
